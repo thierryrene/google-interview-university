@@ -1,33 +1,31 @@
-# Google Interview University
+# Universidade preparatória para entrevistas no Google (Google Interview University)
 
-_If you like this project, please give me a star._ &#9733;
+_Se você gostou do projeto, dê uma estrela._ &#9733;
 
-## What is it?
+## O que é isso?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
+Esse é plano de estudos, baseado em meses, do caminho que um desenvolvedor web (auto didata, sem graduação em CC) de percorrer para se tornar um engenheiro de software do Google.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know. 
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from 
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected 
-sometimes word-for-word in Google's coaching notes.
+Essa longa lista foi baseada no **Google's coaching notes**, uma espécie de referência do Google para quem interesse em trabalhar na empresa, logo são tópicos que você deve saber.
+No fim tem alguns materiais extras que podem surgir na entrevista ou ajudar a resolver um problema. Muitos dos itens são referências do "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)", do Steve Yegge, que as vezes segue a risca as referências do Google. 
 
 ---
 
-## Table of Contents
+## Conteúdo
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
+- [O que é isso?](#what-is-it)
+- [Porque utilizar?](#why-use-it)
+- [Como utilizar?](#how-to-use-it)
+- [Entrando no clima (Googley Mood)](#get-in-a-googley-mood)
+- [Não sinta que não pode ser inteligente o suficiente](#dont-feel-you-arent-smart-enough)
+- [Videos](#about-video-resources)
+- [Processo de entrevista & Procedimentos de preparação](#interview-process--general-interview-prep)
+- [Pré requisitos](#prerequisite-knowledge)
+- [Plano diário](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
+- [Estrutura de informação](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
